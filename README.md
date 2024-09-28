@@ -1,7 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEqHURBnN0v3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719350314652?e=1732752000&v=beta&t=RtDSokgdZ3xnWc6qTWTSJPg49kxFYLNyaqzewUbzFwk)
 
 <h1 align="center">Hi 👋, I'm Harsh Thakur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 
 <p align="left"> 
