@@ -13,8 +13,8 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working on [Velocity](https://velocity-sign.vercel.app)  
-- 🌱 I’m currently learning **Web 3.0**  
+- 🔭 I’m currently working at [OpenDroids](https://opendroids.com/)  
+- 🌱 I’m currently learning **Blockchain**  
 - 👨‍💻 All of my projects are available at [https://harsh-thakur.vercel.app](https://harsh-thakur.vercel.app)  
 - 💬 Ask me about **MERN Tech Stack**  
 - 📫 How to reach me **thakur2004harsh@gmail.com**  
